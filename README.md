@@ -14,7 +14,7 @@
 > - **🔰 Author Ch4rse404**  
 
 > **CODIGO**
-> - **📜 License APACH**
+> - **📜 License APACHE**
 > - **📝 Leng Python 2.2.7**
 #
 > **ANDROID**
