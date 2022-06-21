@@ -36,7 +36,7 @@ os.system('gem install lolcat')
 
 #banner
 os.system("clear")
-print ('''               \033[94m.@@:       !@@@@:       .@@@
+print '''               \033[94m.@@:       !@@@@:       .@@@
      !@@:     .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.     :@@!
    .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -63,11 +63,11 @@ print ('''               \033[94m.@@:       !@@@@:       .@@@
                   :#@@@#@@.        .#@@@@@@!
                          .##########:\033[0m
                                            v 1.0
-\033[94mhttps://github.com/Ch4rse404\033[0m
+\033[94mhttps://github.com/Ch4rse404\033[0m '''
 #letreiro
 os.system('toilet -f standard "Team" -F gay')
 os.system('toilet -f standard "404" -F gay')
-
+print '''
 \033[92m___________________________________________\033[0m
 \033[92m|                                          |\033[0m
 \033[92m|\033[0m      https://github.com/Ch4rse404      \033[92m|\033[0m  \033[93m[ 1 ]\033[0m \033[92machar vulnerabilidades\033[0m
