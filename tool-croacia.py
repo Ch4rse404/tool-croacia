@@ -1,4 +1,4 @@
-#private da Skull's society 404
+#private da team 404 the hell
 
 import os
 import time
