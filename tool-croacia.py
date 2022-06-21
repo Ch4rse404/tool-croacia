@@ -1,4 +1,4 @@
-#private da Skull's society 404
+#private da team 404
 
 import os
 import time
@@ -206,4 +206,4 @@ elif skull == 12:
  
 else:
     print "opcao invalida"
-    os.system("python2 skulls.py")
+    os.system("python2 tool-croacia.py")
